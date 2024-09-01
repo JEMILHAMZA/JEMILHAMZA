@@ -1,9 +1,9 @@
 <div align="center">
   
-# Hi 👋, I'm Jemil Shikuri  
-## Full-Stack Developer  
+# Hi 👋, I'm Jemil Shikuri - Full-Stack Developer  
 
 </div>
+
 
 
 <!--
