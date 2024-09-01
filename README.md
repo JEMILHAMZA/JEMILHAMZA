@@ -1,5 +1,10 @@
-#                                                                                       Hi 👋, I'm Jemil Shikuri
-##                                                                                        Full-Stack developer
+<div align="center">
+  
+# Hi 👋, I'm Jemil Shikuri  
+## Full-Stack Developer  
+
+</div>
+
 
 <!--
 **JEMILHAMZA/JEMILHAMZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
